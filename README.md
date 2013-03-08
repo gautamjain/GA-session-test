@@ -7,3 +7,7 @@ http://stackoverflow.com/questions/13601916/how-to-stop-a-session-in-google-mobi
 Android app for testing Google Analytic's session starts and session ends. Was tested using Google Analytics V2 beta 4 for Android.
 
 Make sure you add your tracking id to the analytics.xml file.
+
+Here's a screenshot:
+
+![Image](screenshot.png?raw=true)
